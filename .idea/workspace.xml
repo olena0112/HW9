@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4828c68-db70-4afb-b880-4ee3c5258501" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyStack.java" afterDir="false" />
-    </list>
+    <list default="true" id="e4828c68-db70-4afb-b880-4ee3c5258501" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
